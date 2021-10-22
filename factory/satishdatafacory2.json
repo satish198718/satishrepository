@@ -1,0 +1,9 @@
+{
+	"name": "satishdatafacory2",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03375950-6483-4f7f-8026-f667403fb10a",
+		"tenantId": "81dd1516-4389-471c-891a-97a51ed13fc3"
+	}
+}
